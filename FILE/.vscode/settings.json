@@ -1,0 +1,11 @@
+{
+  "C_Cpp.errorSquiggles": "disabled",
+  "files.associations": {
+    "stdio.h": "c",
+    "RANDOM.C": "cpp",
+    "random": "cpp",
+    "stdlib.h": "c",
+    "time.h": "c"
+  },
+  "cSpell.ignoreWords": ["chuyen"]
+}

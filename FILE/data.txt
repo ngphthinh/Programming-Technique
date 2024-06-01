@@ -1,0 +1,9 @@
+1;DHTH19B;Nguyen Duc Thuan;Nam;2;9;2005
+2;DHTH19B;Luu Van Quoc;Nam;9;9;2005
+3;DHTH19B;Nguyen Van Bao;Nam;2;11;2005
+4;DHTH19B;Nguyen Dang Nhat Duy;Nam;24;12;2005
+5;DHTH19B;Nguyen Phuoc Thinh;Nam;7;10;2005
+6;DHTH19B;Le Thanh Tung;Nam;28;10;2005
+7;DHTH19B;Nguyen Huy Hoang;Nam;12;11;2005
+8;DHTH19B;Trinh Hoang Ky;Nam;1;10;2005
+9;DHTH19B;Nguyen Gia Phu;Nam;9;10;2005

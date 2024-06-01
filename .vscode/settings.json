@@ -1,0 +1,13 @@
+{
+  "files.associations": {
+    "sstream": "c",
+    "string.h": "c",
+    "stdio.h": "c",
+    "random": "c",
+    "array": "c",
+    "stdbool.h": "c",
+    "stdlib.h": "c"
+  },
+  "C_Cpp.errorSquiggles": "disabled",
+  "cSpell.language": "en"
+}
